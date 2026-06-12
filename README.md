@@ -3,7 +3,7 @@
 A content-based movie recommendation system that suggests similar movies using NLP and TF-IDF vectorization, powered by the TMDB API.
 
 ## 🌐 Live App
-👉 [Coming Soon — Deploying on Streamlit]
+👉  [CineMatch](https://cinematche.streamlit.app)
 
 ## 📌 Overview
 - Recommends similar movies based on plot, genre, and content similarity
